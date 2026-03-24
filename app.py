@@ -1,3 +1,5 @@
+# Copyright (c) 2026 Ashwin Ramaseshan. All rights reserved.
+# Licensed under the GNU General Public License v3.0
 import streamlit as st
 import pandas as pd
 import json
